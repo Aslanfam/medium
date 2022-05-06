@@ -1,10 +1,10 @@
 {
   "root": true,
   "project": {
-    "name": "Medium 2.0"
+    "name": "sanityStudio"
   },
   "api": {
-    "projectId": "cz4eqx6t",
+    "projectId": "qn4f86sc",
     "dataset": "production"
   },
   "plugins": [
@@ -24,10 +24,6 @@
     {
       "name": "part:@sanity/base/schema",
       "path": "./schemas/schema"
-    },
-    {
-      "implements": "part:@sanity/base/root",
-      "path": "plugins/sanity-plugin-tutorial/CustomDefaultLayout"
     }
   ]
 }
