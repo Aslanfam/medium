@@ -1,6 +1,8 @@
 npx create-next-app --example with-tailwindcss [app-name]
 npm install -g @sanity/cli 
 sanity init
+cd [sanity-app-name]
+sanity start
 
 # Next.js + Tailwind CSS Example
 
